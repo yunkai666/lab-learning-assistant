@@ -1,3 +1,8 @@
+---
+
+### 2. 核心代码文件 (`main.py`)
+
+```python
 import requests
 import json
 import base64
@@ -121,4 +126,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
